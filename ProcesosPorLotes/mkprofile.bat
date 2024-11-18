@@ -1,5 +1,5 @@
 @echo off
-rem Script de Prueba
+rem Script de Mkprofile
 rem Autor: Jesús Venero Hormigo
 rem Fecha: 18-11-2024
 
