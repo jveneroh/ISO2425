@@ -1,5 +1,5 @@
 @echo off
-rem Script de Variable
+rem Script de Operaciones
 rem Autor: Jesús Venero Hormigo
 rem Fecha: 18-11-2024
 
