@@ -2,7 +2,7 @@
 #
 # Script Calculadora
 # Autor: Jesús Venero Hormigo
-# Fecha: 09-02-2025
+# Fecha: 03-02-2025
 
 
 clear
