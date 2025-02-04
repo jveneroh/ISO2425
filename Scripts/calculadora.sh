@@ -23,6 +23,9 @@ if [ -f $1 ]; then
 
 fi
 
+read -p "Dime el nombre del autor " nombre
+read -p "Dime el apellido del autor " apellido
+echo $nombre $apellido
 
 while true; do
 
