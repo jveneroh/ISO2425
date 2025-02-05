@@ -3,6 +3,7 @@
 # Script para ver lineas de un archivo
 # Autor: Jesús Venero Hormigo
 # Fecha: 05-02-2025
+# NO ES EL DEFINITIVO
 
 
 clear
