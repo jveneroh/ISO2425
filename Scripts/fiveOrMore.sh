@@ -44,10 +44,8 @@ for i in $ficheros; do
 	if [ -f $i ];then
 		lineas=$(cat $i | wc -l)
 		if [ $lineas -ge 5 ]; then
-			#Parte 3
 			echo $i
 			echo $i >> $1
-			#Parte 4
 			palabras=$(cat $i | wc -w)
 			echo "El fichero tiene $palabras palabras" > $i.q
 			cat $i >> $i.q
