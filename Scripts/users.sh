@@ -35,8 +35,8 @@ echo "Informe de usuarios el día $dia a las $hora "
 
 contador=0
 
-while read user x uid gid g home shell
-do
+while read user x uid gid g home shell; do
+
 	if [ $uid -ge $u ]; then
 		echo $user - $uid
 		contador=$(($contador+1))
@@ -48,4 +48,4 @@ echo "Total: $contador usuarios"
 
 echo "============================"
 
-echo "$dia - $hora - El usuario $USER ha solicitado un informe de usaurios." >> /tmp/logeventos
+echo "$dia - $hora - El usuario $USER ha solicitado un informe de usuarios." >> /tmp/logeventos
