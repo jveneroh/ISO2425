@@ -1,5 +1,5 @@
 """
-Ejercicio 2
+Ejercicio dirFile.py
 Fecha: 26-03-2025
 Autor: Jesús Venero Hormigo
 """
