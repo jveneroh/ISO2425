@@ -42,7 +42,7 @@ while True:
         case 'B':
             directorio = input("Introduzca el nombre de un directorio: ")
             if os.path.isdir(directorio):
-                informacion = os.system(f"ls -laR {directorio}")
+                informacion = os.system(f"ls -l {directorio}")
                 print(informacion)
             else:
                 print('El directorio no existe.')
