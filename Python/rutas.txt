@@ -1,5 +1,0 @@
-/etc
-/etc/passwd
-/home/alumno
-Prueba.py
-Prueba2.py
